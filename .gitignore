@@ -4,5 +4,8 @@
 !.gitignore
 !*.json
 !*.md
-!src/
+!chat_backend/
+!*/src/
 !*.*.mjs
+!*/*/*.js
+!*/*/*.ts
